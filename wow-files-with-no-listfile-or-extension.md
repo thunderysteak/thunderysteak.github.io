@@ -40,4 +40,4 @@ It will also spit out the an M2i to work with once you get all the files.
 
 ![](/img/M2ModRedux_2019-08-02_22-43-15.png)
 
-Refer to <wowdev.wiki> for more information about the files and inner workings of WoW.
+Refer to the [WoWdev.wiki](https://wowdev.wiki/) for more information about the files and inner workings of WoW.

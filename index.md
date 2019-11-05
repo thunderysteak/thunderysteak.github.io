@@ -16,6 +16,9 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 
 ## List of documentation
 
+
+### Windows
+[Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)
 ### World of Warcraft
 [WoW data extraction resource sheet](/wow-data-extract-cheat-sheet)  
 [Recognizing WoW files with no listfile or extension](/wow-files-with-no-listfile-or-extension)  
@@ -24,7 +27,8 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 [Putting your own model into SFM (very simplified)](/model-into-sfm)  
 [Getting the best image quality out of SFM](/sfm-best-quality)    
 [SFM Depth of Field Post-production](/sfm-dof-postproduct)
-### 3D Applications and others
+### 3D Applications
+[Bootstrapping Powershell commands to 3DS Max's Maxscript to send notifications](/powershell-in-maxscript)  
 [Cinema 4D Team Render Quick Start GUide](/c4d-team-render)  
 
 
