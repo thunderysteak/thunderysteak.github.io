@@ -28,8 +28,13 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 [Putting your own model into SFM (very simplified)](/model-into-sfm)  
 [Getting the best image quality out of SFM](/sfm-best-quality)    
 [SFM Depth of Field Post-production](/sfm-dof-postproduct)
-### 3D Applications
+
+### 3DS Max
 [Bootstrapping Powershell commands to 3DS Max's Maxscript to send notifications](/powershell-in-maxscript)  
+[Applying Turbosmooth on an already rigged mesh in 3DS Max](/turbosmooth-on-rigged-mesh)  
+[Combining multiple skinned meshes into a single mesh while keeping the skinning in 3DS Max](/multi-skin-into-single-mesh)  
+
+### 3D Applications
 [Cinema 4D Team Render Quick Start GUide](/c4d-team-render)  
 
 
