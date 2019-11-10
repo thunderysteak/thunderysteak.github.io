@@ -19,7 +19,8 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 ### Linux
 [Network booting CentOS 7 via iPXE and Windows IIS by chainloading iPXE via on-board PXE ROM](/win-iis-ipxe-linux)  
 ### Windows
-[Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)
+[Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)  
+[Using Windows Deployment Services (WDS) with iPXE](/wds-with-ipxe)  
 ### World of Warcraft
 [WoW data extraction resource sheet](/wow-data-extract-cheat-sheet)  
 [Recognizing WoW files with no listfile or extension](/wow-files-with-no-listfile-or-extension)  
