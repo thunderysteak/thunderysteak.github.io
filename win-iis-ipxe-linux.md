@@ -36,8 +36,11 @@ We will be needing only the undionly.kpxe file, so lets compile it.
 [Mikrotik can serve as a TFTP Server](https://wiki.mikrotik.com/wiki/Manual:IP/TFTP), but to make things simplier, I'll be using [Tftpd64](http://tftpd32.jounin.net/tftpd32_download.html) on the Windows server itself.
 
 
-We will be bootstrapping our own compiled iPXE code, but to get it to work, we need to set DHCP option 66 to the TFTP server and option 67 to our iPXE menu/script. Option 67 is usually not needed, but you could try setting it up if you have issues.  
-![](/img/winbox_2019-11-05_22-30-28.png)
+We will be bootstrapping our own compiled iPXE code, but to get it to work, we need to set DHCP option 66 to the TFTP server and option 67 to our iPXE menu/script. Option 67 is the filename that the host will look for when connecting to TFTP server.  
+On Mikrotik, option 66 is `Next Server` and option 67 is `Boot File Name`. Setting DHCP options manually in the options tab will NOT work unless enabled in the DHCP Network panel, which already has Next Server and Boot File Name options already.
+
+![](/img/winbox_2019-11-10_10-20-16.png)
+
 
 
 Drop your `undionly.kpxe` file into the tftpd64 directory to make the file available via tftp. Make sure you allow tftpd64 through the firewall.
