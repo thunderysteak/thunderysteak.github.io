@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Steaks documents
+title: Home
 ---
 
 ## This site contains documentation of the various things I have happened to invest some time into investigating and decided to make documentation for
@@ -18,12 +18,15 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 
 ### Linux
 [Network booting CentOS 7 via iPXE and Windows IIS by chainloading iPXE via on-board PXE ROM](/win-iis-ipxe-linux)  
+
 ### Windows
 [Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)  
 [Using Windows Deployment Services (WDS) with iPXE](/wds-with-ipxe)  
+
 ### World of Warcraft
 [WoW data extraction resource sheet](/wow-data-extract-cheat-sheet)  
 [Recognizing WoW files with no listfile or extension](/wow-files-with-no-listfile-or-extension)  
+
 ### Source Engine and Source Filmmaker
 [Importing Source Engine models into a 3D program](/source-2-3d-app)  
 [Putting your own model into SFM (very simplified)](/model-into-sfm)  

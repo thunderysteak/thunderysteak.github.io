@@ -18,15 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Steaks documents
+title: Steak's Docs
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The file folder with random knowledge
+  The site with random knowledge
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "thunderysteak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ThunderySteak
 github_username:  thunderysteak
 repository: thunderysteak/thunderysteak.github.io
+google_analytics: UA-36732970-2
 
 # Build settings
 theme: jekyll-theme-hacker
