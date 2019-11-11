@@ -23,6 +23,9 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 [Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)  
 [Using Windows Deployment Services (WDS) with iPXE](/wds-with-ipxe)  
 
+### Hardware
+[Hardware modding Dell Wyse D90D7 Thin Client to add an SSD](/wyse-d90d7-ssd)  
+
 ### World of Warcraft
 [WoW data extraction resource sheet](/wow-data-extract-cheat-sheet)  
 [Recognizing WoW files with no listfile or extension](/wow-files-with-no-listfile-or-extension)  
