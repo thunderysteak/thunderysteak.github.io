@@ -16,7 +16,7 @@ Lets start with the basics first and then the tools
 **.anim** files are low priority sequences (e.g. emotes) are in extra files to allow for lazy loading. Required for M2 decompiling.  
 **WMO** files contain world map objects. They have a chunked structure with root WMO and group WMO file.  
 **ADT** files contain terrain and object information for map tiles.  
-**BLP** files store textures with precalculated mipmaps and contain alpha map with DXT compression  
+**BLP** files store textures with precalculated mipmaps and contain alpha map with DXT or similar compression.
 
 ## The tools
 
@@ -63,8 +63,8 @@ Download:
  <https://bitbucket.org/suncurio/m2mod/downloads/>
 
 ### WoW Export Tools
- A recent tool created for export of WMO, ATD and 
-non-character/creature M2s. It supports exporting full ATD
+ A recent tool created for export of WMO, ADT and 
+non-character/creature M2s. It supports exporting full ADT
 map tile with the full ground textures, WMOs and even all
 doodads. You require to use the Blender plugin to stitch
 the files together into a single map tile with all meshes

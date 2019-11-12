@@ -20,16 +20,17 @@ content starts. **Now this is where the fun begins**.
 ![](/img/ubuntu_2019-10-10_21-26-00.png) ![](/img/ubuntu_2019-10-10_21-27-16.png)
 
 The magic number of the files in ASCII correspond to these files:  
-.anim = AFM2, BLP = BLP2, .skin = SKIN4, M2 = MD21, ATD = REVM, ogg = oggS, and so on.
+.anim = AFM2, BLP = BLP2, .skin = SKIN4, M2 = MD21, ADT = REVM, ogg = oggS, and so on.
 
 
 
 I suggest you research the magical numbers first. You can write a script to
-override the .dat extensions for you. This should give you a pointer how to write your bash script.
+override the .dat extensions for you. This should give you a pointer how to write your bash script. 
 
 
 ![](/img/ubuntu_2019-10-10_21-03-29.png)
 
+You should really be using `file --magic`, with an example [here](https://github.com/Marlamin/wow.tools/blob/master/builds/scripts/wow.mg).
 
 If you are trying to rip out a character model but don’t want to dabble with the file structure itself
 to locate the skin files, quick and dirty way how to find the skin files you’re lacking is by extracting
