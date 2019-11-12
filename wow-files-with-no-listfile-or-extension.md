@@ -20,7 +20,7 @@ content starts. **Now this is where the fun begins**.
 ![](/img/ubuntu_2019-10-10_21-26-00.png) ![](/img/ubuntu_2019-10-10_21-27-16.png)
 
 The magic number of the files in ASCII correspond to these files:  
-.anim = AFM2, BLP = BLP2, .skin = SKIN4, M2 = MD21, ADT = REVM, ogg = oggS, and so on.
+.anim = AFM2, BLP = BLP2, .skin = SKIN, M2 = MD21, ADT = REVM, ogg = oggS, and so on.
 
 
 
