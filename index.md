@@ -16,9 +16,6 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 
 ## List of documentation
 
-### Virtualization
-[Migrating a physical server or a VM from a different hypervisor into a new VM](/machine-2-vm-migration)
-
 ### Linux
 [Network booting CentOS 7 via iPXE and Windows IIS by chainloading iPXE via on-board PXE ROM](/win-iis-ipxe-linux)  
 [Reverse Engineering TP-Link TL-WA901ND firmware and obtaining the filesystem](/tl-wa901nd-basic-re)  
@@ -26,6 +23,10 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 ### Windows
 [Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)  
 [Using Windows Deployment Services (WDS) with iPXE](/wds-with-ipxe)  
+### Miscellaneous Docs
+[Migrating a physical server or a VM from a different hypervisor into a new VM](/machine-2-vm-migration)  
+[Deploying pfSense on a system with a single network interface using VLANs on Dell Wyse D90D7 Thin Client](/pfsense-single-nic-vlans)
+
 
 ### Hardware
 [Hardware modding Dell Wyse D90D7 Thin Client to add an SSD](/wyse-d90d7-ssd)  
