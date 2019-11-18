@@ -17,6 +17,7 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 ## List of documentation
 
 ### Linux
+[Changing dynamic or static IP to dynamic or static IP on RHEL based Linux](/centos-change-dynamic-to-static-ip)    
 [Network booting CentOS 7 via iPXE and Windows IIS by chainloading iPXE via on-board PXE ROM](/win-iis-ipxe-linux)  
 [Reverse Engineering TP-Link TL-WA901ND firmware and obtaining the filesystem](/tl-wa901nd-basic-re)  
 [Migration of RHEL system to a new server (CentOS 7)](/rebuild-initramfs-centos)  
