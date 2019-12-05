@@ -30,8 +30,10 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 ### Virtualization
 [Migrating a physical server or a VM from a different hypervisor into a new VM](/machine-2-vm-migration)  
 [Connecting to Hyper-V VM console via RDP](/hyperv-direct-vm-rdp)  
-### Miscellaneous Docs
 
+### Networking
+[Routing all traffic through OpenVPN client on Windows](/ovpn-route-all-traffic)  
+[L2TP with IPSec Point to Point VPN setup on Mikrotik](/mikrotik-ptp-vpn)  
 [Deploying pfSense on a system with a single network interface using VLANs on Dell Wyse D90D7 Thin Client](/pfsense-single-nic-vlans)
 
 
