@@ -18,8 +18,9 @@ Yes. We're going 3 shells deep.
 
 
 Executing PS code is pretty simple.
-```DOSCommand "powershell.exe -command \"<yourcommandshere>\"``` or ```DOSCommand "powershell C:\your-script.ps1"``` for running a script.  
-Yes, you can paste the whole script into it and make it work without changing your `Set-ExecutionPolicy` to `RemoteSigned`, but a more elegant solution is to still create a powershell script that maxscript just calls.
+```DOSCommand "powershell.exe -command \"<yourcommandshere>\"``` or ```DOSCommand "powershell C:\\your-script.ps1"``` for running a script.  
+Yes, you can paste the whole script into it and make it work without changing your `Set-ExecutionPolicy` to `RemoteSigned`, but a more elegant solution is to still create a powershell script that maxscript just calls.  
+
 
 ### What can you do with this?
 

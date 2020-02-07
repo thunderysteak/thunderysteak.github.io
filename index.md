@@ -55,6 +55,7 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 [Bootstrapping Powershell commands to 3DS Max's Maxscript to send notifications](/powershell-in-maxscript)  
 [Applying Turbosmooth on an already rigged mesh in 3DS Max](/turbosmooth-on-rigged-mesh)  
 [Combining multiple skinned meshes into a single mesh while keeping the skinning in 3DS Max](/multi-skin-into-single-mesh)  
+[3DS Max and Blender interoperability](blender-2-3dsmax-opencollada)  
 
 ### 3D Applications
 [Cinema 4D Team Render Quick Start GUide](/c4d-team-render)  
