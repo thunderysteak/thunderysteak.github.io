@@ -37,7 +37,9 @@ Unfortunately, KhronosGroup's S3 bucket containing the builds no longer exists, 
 
 Follow the instructions in the Zip file how to install the plugin.  
 
+When importing/exporting, make sure you select the OpenCOLLADA format, as opening a DAE file will default to Autodesk COLLADA.
 
+![](/img/225076.png)
 
 ### Compiling it yourself
 
