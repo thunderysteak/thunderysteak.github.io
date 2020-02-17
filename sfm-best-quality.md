@@ -38,10 +38,14 @@ You can open the PFM file in Photoshop natively without any plugins for any post
 
 # VERY BIG WARNING
 DO NOT use this for editing of your scene and DO NOT SAVE YOUR SCENE WITH THESE LAUNCH OPTIONS! YOU’LL BREAK THE FILE!
-Create a desktop shortcut of the sfm.exe and DO NOT add this into your launch options in Steam. Use this for RENDERING ONLY!
+Create a desktop shortcut of the sfm.exe and DO NOT add this into your launch options in Steam. Use this for RENDERING ONLY!  
+
+If you are having issues putting everything into the shortcut where Windows cuts off parts of the commands (most likely due of your Steam library being under Program Files), you can put the commands in a batch script to execute them.  
+
+If you don't know how, [I have made a quick bat script for people to use which includes a warning about the settings breaking project files](https://github.com/thunderysteak/script-collection/blob/master/sfm-high-quality-render.bat).
 
 ```
-sfm.exe -nosteam -nop4 -num_edicts 8192 -sfm_resolution 2160 -sfm_shadowmapres 8192 -monitortexturesize 1024 -r_novis 1 -reflectiontexturesize 1024 +mat_envmapsize 256  mat_forceaniso 16 +r_waterforceexpensive 1 +r_waterforcereflectentities 1 +mat_wateroverlaysize 1024 +r_hunkalloclightmaps 0 +flex_smooth 0
+sfm.exe -nosteam -nop4 -num_edicts 8192 -sfm_resolution 2160 -sfm_shadowmapres 8192 -monitortexturesize 1024 -r_novis 1 -reflectiontexturesize 1024 +mat_envmapsize 256 +mat_forceaniso 16 +r_waterforceexpensive 1 +r_waterforcereflectentities 1 +mat_wateroverlaysize 1024 +r_hunkalloclightmaps 0 +flex_smooth 0
 ```
 
 ### Breakdown of the launch flags
