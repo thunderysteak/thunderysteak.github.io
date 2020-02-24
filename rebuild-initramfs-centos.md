@@ -105,7 +105,7 @@ Identify which command is used for grub installation.
 ```ls /sbin | grep grub2```
 
 We'll see that `grub2-install` is used.  
-Execute `/sbin/grub2-install /dev/sda1`.  
+Execute `/sbin/grub2-install /dev/sda`.  
 
 Drop out of the shell and reboot. You should see GRUB show up and boot normally.
 
