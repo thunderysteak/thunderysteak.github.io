@@ -31,6 +31,8 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 ### Virtualization
 [Migrating a physical server or a VM from a different hypervisor into a new VM](/machine-2-vm-migration)  
 [Connecting to Hyper-V VM console via RDP](/hyperv-direct-vm-rdp)  
+[Converting a Hyper-V VHD/VHDx to VMWare Workstation VMDK](/vhd-2-vmdk)  
+[Using VMWare Workstation VMDK image in ESXi](/workstation-vmdk-2-esxi)  
 
 ### Networking
 [Routing all traffic through OpenVPN client on Windows](/ovpn-route-all-traffic)  
