@@ -27,6 +27,7 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 ### Windows
 [Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)  
 [Using Windows Deployment Services (WDS) with iPXE](/wds-with-ipxe)  
+[Adding AWS Shell to Windows Terminal](/aws-shell-2-winterm)  
 
 ### Virtualization
 [Migrating a physical server or a VM from a different hypervisor into a new VM](/machine-2-vm-migration)  
