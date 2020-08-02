@@ -53,7 +53,8 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 [Importing Source Engine models into a 3D program](/source-2-3d-app)  
 [Putting your own model into SFM (very simplified)](/model-into-sfm)  
 [Getting the best image quality out of SFM](/sfm-best-quality)    
-[SFM Depth of Field Post-production](/sfm-dof-postproduct)
+[SFM Depth of Field Post-production](/sfm-dof-postproduct)   
+[Exporting SFM animations to Blender and 3DS Max, or how to use SFM as an animation tool](/sfm-anim-to-blender-3ds-max)   
 
 ### 3DS Max
 [Bootstrapping Powershell commands to 3DS Max's Maxscript to send notifications](/powershell-in-maxscript)  
