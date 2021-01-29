@@ -23,6 +23,7 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 [Network booting CentOS 7 via iPXE and Windows IIS by chainloading iPXE via on-board PXE ROM](/win-iis-ipxe-linux)  
 [Reverse Engineering TP-Link TL-WA901ND firmware and obtaining the filesystem](/tl-wa901nd-basic-re)  
 [Migration of RHEL system to a new server (CentOS 7)](/rebuild-initramfs-centos)  
+[Fixing Ubuntu VM on Hyper-V stuck in read-only mode after hot backup or live migration](/ubuntu-hyperv-readonly-bck-fix)  
 [Booting to Windows remotely on dual-boot CentOS 7 system](/dualboot-boot-2-windows-remotely)
 
 ### Windows
