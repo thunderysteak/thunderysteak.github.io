@@ -8,7 +8,7 @@ stuff into Source Filmmaker. Keep in mind that Source is over a decade old. As s
 
 ### Tool and plugin download links
 You’ll require Blender/3DS Max plugins, VTFEdit and optionally Crowbar for compiling models  
-VTFEdit: <http://nemesis.thewavelength.net/index.php?c=238#p238>  
+VTFEdit (Github archive): <https://nemstools.github.io/pages/VTFLib-Download.html>  
 CrowbarTool: <https://steamcommunity.com/groups/CrowbarTool>  
 Blender: <http://steamreview.org/BlenderSourceTools/>  
 3DS Max: <https://knockout.chat/thread/806/1>  

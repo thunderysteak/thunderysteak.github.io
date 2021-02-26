@@ -8,8 +8,8 @@ This is HEAVILY not suggested to do. It is incredibly important that you begin y
 There are several tools you'll require: Install the Source SDK and run it at least once (If a model is for SFM, launch SFM's SDK, if its for L4D 2 run its SDK and so on), install VTFEdit, Crowbar tool and SMD/DMX plugin for your 3D Application of choice.
 
 ### Tool and plugin download links
-VTFEdit: <http://nemesis.thewavelength.net/index.php?c=238#p238>  
-GFCScape: <http://nemesis.thewavelength.net/index.php?p=25>  
+VTFEdit (Github archive): <https://nemstools.github.io/pages/VTFLib-Download.html>  
+GFCScape (Github archive): <https://nemstools.github.io/pages/GCFScape.html>  
 CrowbarTool: <https://steamcommunity.com/groups/CrowbarTool>  
 Blender: <http://steamreview.org/BlenderSourceTools/>  
 3DS Max: <https://knockout.chat/thread/806/1>  
