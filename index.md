@@ -17,6 +17,7 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 ## List of documentation
 
 ### Linux
+[Restrict SFTP user to a specific folder](/sftp-user-chroot)  
 [Backing up MySQL database on Linux with rclone and Azure Blob Storage](/linux-mysql-azure-bck)  
 [Mounting Onedrive with Rclone mount on startup with Systemd](/rclone-mount-onedrive)    
 [Changing dynamic or static IP to dynamic or static IP on RHEL based Linux](/centos-change-dynamic-to-static-ip)    
