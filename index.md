@@ -31,12 +31,15 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 [Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)  
 [Using Windows Deployment Services (WDS) with iPXE](/wds-with-ipxe)  
 [Adding AWS Shell to Windows Terminal](/aws-shell-2-winterm)  
+[Injecting drivers into Windows 10/2016/2019/2022 Installer](/windows-setup-driver-injection)
 
 ### Virtualization
 [Migrating a physical server or a VM from a different hypervisor into a new VM](/machine-2-vm-migration)  
 [Connecting to Hyper-V VM console via RDP](/hyperv-direct-vm-rdp)  
 [Converting a Hyper-V VHD/VHDx to VMWare Workstation VMDK](/vhd-2-vmdk)  
 [Using VMWare Workstation VMDK image in ESXi](/workstation-vmdk-2-esxi)  
+[Manual XCP-ng installation on OVHCloud/SoYouStart Server](/xcpng-on-sys)  
+[Securing cloud-based/Public DC XCP-ng installation without additional physical firewall](/public-xcpng-host-security)  
 
 ### Networking
 [Routing all traffic through OpenVPN client on Windows](/ovpn-route-all-traffic)  
@@ -46,6 +49,7 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 
 ### Hardware
 [Hardware modding Dell Wyse D90D7 Thin Client to add an SSD](/wyse-d90d7-ssd)  
+[Updating firmware on PCIe SATA expansion cards using ASMedia ASM106x series SATA controller](/upgrading-asmedia-106x-cards)  
 
 ### World of Warcraft
 [WoW data extraction resource sheet](/wow-data-extract-cheat-sheet)  
