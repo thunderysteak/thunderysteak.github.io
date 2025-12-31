@@ -27,6 +27,7 @@ It is highly encouraged to fork and expand on the knowledge and information loca
 [Fixing Ubuntu VM on Hyper-V stuck in read-only mode after hot backup or live migration](/ubuntu-hyperv-readonly-bck-fix)  
 [Booting to Windows remotely on dual-boot CentOS 7 system](/dualboot-boot-2-windows-remotely)  
 [Pipewire Audio fix for Dell Venue 11 Pro](/venue11-pipewire-fix)  
+[Getting serial based Wacom Penabled tablet digitizers working on modern Linux](/serial-wacom-driver-fix)  
 
 ### Windows
 [Using Windows applications with the Windows Subsystem for Linux (WSL) Linux filesystem](/win-apps-with-wsl)  
